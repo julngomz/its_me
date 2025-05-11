@@ -3,7 +3,7 @@
 This project is exploring authentication using the Phoenix authentication generator for Phoenix LiveView applications.
 
 ```Elixir
-$ mix phx.gen.auth Accounts User users --live
+mix phx.gen.auth Accounts User users --live
 ```
 
 Where,
