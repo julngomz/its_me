@@ -2,11 +2,11 @@
 
 This project is exploring authentication using the Phoenix authentication generator for Phoenix LiveView applications.
 
+> *How does the Phoenix application handle a request and route that request to the proper resources depending on the request characteristics? - user role, permissions, etc*
+
 **Authentication Building Blocks**
 
 For the most part, these concepts are what tie together the authentication flow of a Phoenix application. The focus of this repo is to explore the authentication process in relation to a Single-Page Application (SPA) using Phoenix Framework and Phoenix LiveView.
-
-> Main question: *How does the Phoenix application handle a request and route that request to the proper resources depending on the request characteristics? - user role, permissions, etc*
 
 - [Request Lifecycle](https://hexdocs.pm/phoenix/request_lifecycle.html)
 - [Phoenix Plugs](https://hexdocs.pm/phoenix/plug.html) and [Plugs](https://hexdocs.pm/plug/1.15.3/Plug.html)
