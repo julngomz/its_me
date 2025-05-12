@@ -2,7 +2,7 @@
 
 This project is exploring authentication using the Phoenix authentication generator for Phoenix LiveView applications.
 
-**Authentication Flow Blocks**
+**Authentication Building Blocks**
 
 For the most part, these concepts are what tie together the authentication flow of a Phoenix application. The focus of this repo is to explore the authentication process in relation to a Single-Page Application (SPA) using Phoenix Framework and Phoenix LiveView.
 
